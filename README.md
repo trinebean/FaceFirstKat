@@ -25,10 +25,12 @@ regular user - "ubuntu"
 API for Sprint 1 - Lambda
 https://market.mashape.com/lambda/face-recognition-and-face-detection
 
+API for camera access
+https://github.com/nwjs/nw.js/wiki/Control-camera-and-microphone-with-getusermedia-api
+
 Test Framework - Mocha
 https://mochajs.org
 
 Selenium IDE 2.9.1
-
 Step 1 - Install Firefox
 Step 2 - Install Selenium Plugn - https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/#id=2079 
