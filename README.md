@@ -28,7 +28,7 @@ https://market.mashape.com/lambda/face-recognition-and-face-detection
 Test Framework - Mocha
 https://mochajs.org
 
-Selenium IDE
+Selenium IDE 2.9.1
 
 Step 1 - Install Firefox
 Step 2 - Install Selenium Plugn - https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/#id=2079
