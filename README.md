@@ -31,4 +31,4 @@ https://mochajs.org
 Selenium IDE 2.9.1
 
 Step 1 - Install Firefox
-Step 2 - Install Selenium Plugn - https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/#id=2079
+Step 2 - Install Selenium Plugn - https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/#id=2079 
