@@ -16,7 +16,10 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "express": "^4.14.0"
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "unirest": "^0.5.1"
   },
   "devDependencies": {
     "mocha": "^3.2.0",
