@@ -33,4 +33,7 @@ https://mochajs.org
 
 Selenium IDE 2.9.1
 Step 1 - Install Firefox
-Step 2 - Install Selenium Plugn - https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/#id=2079 
+Step 2 - Install Selenium Plugn - https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/#id=2079
+
+Album Name: FaceFirstMaster
+Album Key: 0d1a139f200fe0c384889988c4f1100653bae670d7cb58c974a72c16cdbfa961
